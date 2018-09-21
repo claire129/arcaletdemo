@@ -1,10 +1,10 @@
 # Summary
-
-## 簡介
-
-  * [平台概要](README.md)
-  * [Arcalet平台是?](arcaletping-tai-662f3f.md)
-  * [功能簡介](gong-neng-jian-jie.md)
-
-## 使用手冊
-
+* [Arcalet平台](README.md)
+* 簡介
+	* [平台概要](part1/README.md)
+		* [Arcalet平台是?](part1/platform1.md)
+		* [功能簡介](part1/platform2.md)
+* 使用手冊
+	* [arcalet API](part2/README.md)
+		* [同步處理](part2/arcaletapi1.md)
+		* [事件處理](part2/arcaletapi2.md)
