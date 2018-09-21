@@ -1,9 +1,11 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## 簡介
 
-* [平台概要](README.md)
-* [Arcalet平台是?](arcaletping-tai-662f3f.md)
-* [功能簡介](platform1.md)
-* [TEST](gong-neng-jian-jie.md)
-## 使用手冊
+* [平台概要](jian-jie/readme.md)
+* [Arcalet平台是?](jian-jie/arcalet-ping-tai-shi.md)
+* [功能簡介](jian-jie/platform1.md)
+* [TEST](jian-jie/test.md)
+
